@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BOLD ideas
+title:
 tagline: thoughts on life, travel, self employment, and self experimentation
 ---
 {% include JB/setup %}
